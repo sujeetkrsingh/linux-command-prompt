@@ -1,5 +1,4 @@
-# linux-command-prompt
-Linux Command Prompt (PHP Shell)
+# Linux Command Prompt (PHP Shell)
 <a href="http://www.sujeetkrsingh.com/how-to-execute-linux-command-using-php">Linux Command Prompt</a> - LCP is a simple PHP based command prompt to execute linux commands.
 
 ## Following are the steps to install command prompt on server:-
